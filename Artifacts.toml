@@ -1,0 +1,9 @@
+[[LIBMINCd]]
+arch = "x86_64"
+git-tree-sha1 = "5a57c3396b27c81d0ba13551d00a3bec25b84f48"
+libc = "glibc"
+os = "linux"
+
+    [[LIBMINCd.download]]
+    sha256 = "5aa40093d18b432d1c8090279d71f68d4765d519ce2ec5402164595e2fa8a795"
+    url = "https://github.com/vfonov/LIBMINCd_jll.jl/releases/download/LIBMINCd-v2.4.5+0/LIBMINCd.v2.4.5.x86_64-linux-gnu.tar.gz"
